@@ -25,4 +25,12 @@ private void Fruits3() {
 	
 
 }
+private void chitra() {
+	
+
+}
+private void jeni() {
+	
+
+}
 }
