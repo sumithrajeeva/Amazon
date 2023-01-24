@@ -24,7 +24,15 @@ private void Fruits2 () {
 private void Fruits3() {
 	
 
+}private void juhi() {
+	
+
 }
+private void sumi() {
+	
+
+}
+
 private void chitra() {
 	
 
@@ -33,4 +41,9 @@ private void jeni() {
 	
 
 }
+
+	
+
 }
+
+
