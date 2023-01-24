@@ -25,4 +25,13 @@ private void Fruits3() {
 	
 
 }
+private void juhi() {
+	
+
+}
+private void sumi() {
+	
+
+}
+
 }
