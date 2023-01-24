@@ -13,4 +13,16 @@ private void veg3() {
 	
 
 }
+private void Fruits1() {
+	
+
+}
+private void Fruits2 () {
+	
+
+}
+private void Fruits3() {
+	
+
+}
 }
